@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Ensemble Techniques Project</b>
+- <b>Ensemble Techniques </b>
   - [Address customer churn for a telecommunications company by predicting potential churn based on various factors, aiding in customer retention strategies.](https://github.com/DencyThomas/DencyThomas.github.io/blob/0075ba0a805308410b869533c71e891c1e79fa71/Ensemble%20Technique%20Project.ipynb)
     
-- <b>Feature Engineering & Model Tuning Project</b>
+- <b>Feature Engineering & Model Tuning </b>
   - [Enhance process throughput and reduce per-unit production costs for a semiconductor manufacturing company by predicting the Pass/Fail yield of process entities.](https://github.com/DencyThomas/DencyThomas.github.io/blob/0075ba0a805308410b869533c71e891c1e79fa71/Featurization%20Model%20Selection%20and%20Tuning%20Project.ipynb)
 
-- <b>Neural Networks & Deep Learning Project</b>
+- <b>Neural Networks & Deep Learning </b>
   - [Develop neural network models for a communications equipment manufacturer and street-level number classification.](https://github.com/DencyThomas/DencyThomas.github.io/blob/0075ba0a805308410b869533c71e891c1e79fa71/Neural%20Nets%20and%20Deep%20Learning.ipynb)
     
 - <b> Supervised Learning</b>
@@ -17,7 +17,7 @@
 - <b>Unsupervised Learning</b>
   - [Segment cars into categories based on fuel consumption and classify vehicles from silhouettes.](https://github.com/DencyThomas/DencyThomas.github.io/blob/0075ba0a805308410b869533c71e891c1e79fa71/Unsupervised%20Learning%20Project.ipynb)
  
-- <b>MySQL Project</b>
+- <b>MySQL </b>
   - [Analyze dipping sales and customer feedback for New-Wheels to provide insights for the Quarterly Business Report.](https://github.com/DencyThomas/DencyThomas.github.io/blob/0075ba0a805308410b869533c71e891c1e79fa71/submission_DencyThomas.sql)
 
 
